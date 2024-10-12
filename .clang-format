@@ -1,0 +1,18 @@
+---
+UseTab: Never
+IndentWidth: 4
+ColumnLimit: 80
+---
+Language: Cpp
+Standard: c++17
+BasedOnStyle: Google
+DerivePointerAlignment: false
+PointerAlignment: Left
+IncludeBlocks: Regroup
+---
+Language: CSharp
+BasedOnStyle: Microsoft
+DerivePointerAlignment: false
+PointerAlignment: Left
+NamespaceIndentation: None
+---
